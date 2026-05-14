@@ -2,6 +2,10 @@
 
 ## Guide Questions – Student Reflection & Explanation
 
+# 🚀 Open in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZQjJypPYqyM8HP4ax6WPueLZhcvd0Z83?usp=sharing)
+
 ### 1. Dataset Preparation
 
 **How did you organize your dataset in Google Drive?**
